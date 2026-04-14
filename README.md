@@ -1,12 +1,5 @@
-### Hi there 👋
+
 
 <!--
-**0x-code/0x-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me: simonjassyodunwole@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love rice.
+Someone told me if I don't have a GitHub ,no one would take me seriously. for years I thought they were a joke but turns out they were infact right.
 -->
